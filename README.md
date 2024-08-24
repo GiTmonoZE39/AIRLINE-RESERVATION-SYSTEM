@@ -1,0 +1,1 @@
+The Airline Reservation System is a comprehensive web application developed using Angular, Spring Boot, and MySQL, designed to streamline the process of booking and managing airline reservations. The system enables customers to search for flights, make reservations, manage bookings, and access essential flight information.
